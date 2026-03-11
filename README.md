@@ -5,8 +5,6 @@ This uses pydirectinput.
 
 # Details
 Pretty customizable
-Might still update
-I don't really know
 
 
 ### Created by ejmeija
