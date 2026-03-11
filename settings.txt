@@ -1,0 +1,14 @@
+Messages = Pls donate :(, I need some robux, Hi man, Pls pls pls robux, Give me robux, Can anyone help, Broke af, Donate pls, No cap I need robux, Help a homie out
+Use , to add multiple messages
+
+Delay = 130 
+This is seconds.
+
+Window Name = "Roblox"
+Name of the Window
+
+Open Chat Button = "/"
+Button that will be used to open chat
+
+UseRandomMessage = True 
+Select a random message from if you put more then one message at the top
