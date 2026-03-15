@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/badge/discord)]([https://github.com/NawfalMotii79/PLFM_RADAR](https://discord.gg/rsRGcMqBxe)))
+[![Join My Discord](https://img.shields.io/discord/1482605286123507782?label=Join%20our%20Discord&logo=discord&color=5865F2)](https://discord.gg/rsRGcMqBxe)
 
 # Roblox Chat Bot
 FINALLY, a  bot that actually works in roblox... And can work in any other games too, to my knowledge.
