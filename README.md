@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Frequency-10.5GHz-blue)]([https://github.com/NawfalMotii79/PLFM_RADAR](https://discord.gg/rsRGcMqBxe)))
+
 # Roblox Chat Bot
 FINALLY, a  bot that actually works in roblox... And can work in any other games too, to my knowledge.
 This uses pydirectinput.
