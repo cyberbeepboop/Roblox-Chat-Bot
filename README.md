@@ -14,5 +14,3 @@ To install, use:
 4. Once you have pip installed, run pip install pydirectinput pygetwindow pyperclip pyautogui pynput
 5. Run the script, or customize in settings.txt
 
-**Discord**
-https://discord.gg/rsRGcMqBxe
